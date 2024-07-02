@@ -1,10 +1,5 @@
-# github-final-project
+En este proyecto se analizará parte de la información contenida en un conjunto de abstracts de artículos, los cuales pueden obtenerse de esta liga https://www.nsf.gov/awardsearch/download?DownloadFileName=2020&All=true
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+El objetivo es ubicar los abstracts dentro de cierto tema, es decir, agrupar/clasificar los abstracts con base en su contenido.
 
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
+El problema será abordado utilizando tanto herramientas de IA generativa, como de ML tradicional.
